@@ -5,13 +5,11 @@ const PrivacyPolicy = () => {
       aria-label="Privacy Policy"
     >
       <article className="space-y-6">
-        <h1 className="text-3xl font-bold">
-          Privacy Policy for [Your App Name]
-        </h1>
+        <h1 className="text-3xl font-bold">Privacy Policy for Bharat App</h1>
         <p>
-          This Privacy Policy explains how <strong>[Your Company Name]</strong>
+          This Privacy Policy explains how <strong>Learn Now Academy</strong>
           ("we," "us," or "our") handles information from and about you when you
-          use our social media application, <strong>[Your App Name]</strong>.
+          use our social media application, <strong>Bharat App</strong>.
         </p>
 
         <hr />
